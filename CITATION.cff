@@ -1,27 +1,12 @@
 cff-version: 1.2.0
 message: "If you use this preprint, please cite it as below."
-type: article
 title: "The Constitution as a Founding Inscription: What Kind of Social Object a National Constitution Is, and How It Institutionalizes the Human Condition Across the World's Legal Traditions"
 authors:
   - family-names: Bourguet
     given-names: Luis
     orcid: "https://orcid.org/0000-0002-4673-4486"
-    affiliation: "LabOnt — Centre for Ontology, Università di Torino; CSAL — Centro de Estudios Latinoamericanos, Università di Bologna"
-abstract: >
-  This article brings together two questions usually kept apart: the
-  anthropological-philosophical question of the human condition and the
-  ontological-legal question of what kind of social object a national
-  constitution is. The thesis merges both: a constitution is a founding
-  inscription — a sovereign, recursive, generative and maximally unamendable
-  social object — operating as the mechanism through which a political
-  community stabilizes its answers to the human condition. The framework
-  integrates Ferraris's New Realism, Bunge's and Romero's systemic
-  materialism, Glenn's theory of legal traditions as transmitted normative
-  information, Todorov's theory of alterity, and Anderson's and De Botton's
-  functional reading of religion. The thesis is tested against constitutional
-  orders from every continent and every major legal tradition — civil, common,
-  chthonic, Talmudic, Islamic, Hindu, East Asian, socialist and African —
-  drawing on the Comparative Constitutions Project.
+    affiliation: "LabOnt, Universita di Torino; CSAL, Universita di Bologna"
+abstract: "This article brings together two questions usually kept apart: the anthropological-philosophical question of the human condition and the ontological-legal question of what kind of social object a national constitution is. The thesis merges both: a constitution is a founding inscription, a sovereign, recursive, generative and maximally unamendable social object, operating as the mechanism through which a political community stabilizes its answers to the human condition."
 keywords:
   - social object
   - founding inscription
@@ -33,13 +18,19 @@ keywords:
   - systemic materialism
   - alterity
   - human condition
-journal: "Revista General de Derecho Público Comparado"
-publisher: "IUSTEL"
-status: preprint
-notes: >
-  Pre-review version. Submitted to IUSTEL. Under editorial review.
-  Preprint deposited with authorization of the Editor-in-Chief.
 license: "CC-BY-NC-ND-4.0"
 repository-code: "https://github.com/luisbourguet/constitution-founding-inscription"
 doi: "10.5281/zenodo.21386477"
 date-released: "2026-07-16"
+notes: "Pre-review preprint. Submitted to Revista General de Derecho Publico Comparado (IUSTEL). Under editorial review. Deposited with authorization of the Editor-in-Chief."
+preferred-citation:
+  type: article
+  title: "The Constitution as a Founding Inscription: What Kind of Social Object a National Constitution Is, and How It Institutionalizes the Human Condition Across the World's Legal Traditions"
+  authors:
+    - family-names: Bourguet
+      given-names: Luis
+      orcid: "https://orcid.org/0000-0002-4673-4486"
+  journal: "Revista General de Derecho Publico Comparado"
+  publisher: "IUSTEL"
+  year: 2026
+  doi: "10.5281/zenodo.21386477"
