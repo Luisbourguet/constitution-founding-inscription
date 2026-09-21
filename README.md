@@ -2,6 +2,7 @@
 ### La Constitución como inscripción fundadora
 
 [![Preprint DOI](https://zenodo.org/badge/doi/10.5281/zenodo.21386477.svg)](https://doi.org/10.5281/zenodo.21386477)
+[![Materials DOI](https://zenodo.org/badge/doi/10.5281/zenodo.22867233.svg)](https://doi.org/10.5281/zenodo.22867233)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 > **Status / Estado (September 2026):** **Accepted for publication** in the *Revista General de Derecho Público Comparado* (IUSTEL), after double-blind peer review. The published version carries the revised title **"The Constitution as a Founding Inscription: Social Ontology and Comparative Legal Traditions"** / *"La Constitución como inscripción fundadora: ontología social y tradiciones jurídicas comparadas"* and incorporates the reviewers' suggestions. This repository holds the **pre-review preprint** (deposited with the authorization of the Editor-in-Chief) and the **comparative materials** underlying the article. The accepted manuscript is not deposited here, in accordance with the journal's copyright policy.
@@ -45,7 +46,7 @@ The selection of traditions follows H. P. Glenn's map; within each tradition, ca
 > Bourguet, L. (2026). *The Constitution as a Founding Inscription: What Kind of Social Object a National Constitution Is, and How It Institutionalizes the Human Condition Across the World's Legal Traditions* (v1.0-preprint). Zenodo. https://doi.org/10.5281/zenodo.21386477
 
 **Materials (this repository):**
-> Bourguet, L. (2026). *Constitution as a Founding Inscription — comparative materials* (v1.1.0). Zenodo. DOI to be assigned on release.
+> Bourguet, L. (2026). *The Constitution as a Founding Inscription — preprint and comparative materials* (v1.1.0). Zenodo. https://doi.org/10.5281/zenodo.22867233 (this version: https://doi.org/10.5281/zenodo.22867234)
 
 ## License / Licencia
 
