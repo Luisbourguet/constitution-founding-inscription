@@ -1,0 +1,17 @@
+{
+  "title": "The Constitution as a Founding Inscription — preprint and comparative materials",
+  "upload_type": "dataset",
+  "description": "<p>Pre-review preprint (v1.0, July 2026) and comparative datasets underlying the article <em>The Constitution as a Founding Inscription: Social Ontology and Comparative Legal Traditions</em>, accepted for publication in the <em>Revista General de Derecho Público Comparado</em> (IUSTEL), September 2026.</p><p>Datasets: ten legal traditions (Glenn's map) by point of capture, mode of inscription, technology of hardness and exemplary orders; twenty-one constitutional orders by founding act, technology of intangibility and mode of recognition of the other; the ichnological hierarchy of inscription; the twelve constitutional provisions quoted in the article; and all primary sources cited. Constitutional texts were retrieved from the Comparative Constitutions Project (Constitute).</p><p>The accepted manuscript is not included, in accordance with the journal's copyright policy.</p>",
+  "creators": [
+    {"name": "Bourguet, Luis", "affiliation": "LabOnt — Centre for Ontology, Università di Torino; CSAL, Università di Bologna", "orcid": "0000-0002-4673-4486"}
+  ],
+  "keywords": ["social object", "founding inscription", "legal traditions", "unamendability", "comparative constitutionalism", "documentality", "New Realism", "systemic materialism", "alterity", "human condition"],
+  "license": "cc-by-4.0",
+  "access_right": "open",
+  "language": "eng",
+  "related_identifiers": [
+    {"identifier": "10.5281/zenodo.21386477", "relation": "isSupplementTo", "resource_type": "publication-preprint", "scheme": "doi"},
+    {"identifier": "https://constituteproject.org", "relation": "isDerivedFrom", "resource_type": "dataset", "scheme": "url"}
+  ],
+  "communities": [{"identifier": "computational-ontology"}]
+}
