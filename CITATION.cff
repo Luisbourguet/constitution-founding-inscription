@@ -1,45 +1,14 @@
 cff-version: 1.2.0
-message: "If you use these materials or the preprint, please cite them as below."
-type: dataset
-title: "The Constitution as a Founding Inscription — preprint and comparative materials"
-version: "1.1.0"
-date-released: "2026-09-21"
+message: "If you use this software, please cite it as below."
 authors:
-  - family-names: Bourguet
-    given-names: Luis
-    orcid: "https://orcid.org/0000-0002-4673-4486"
-    affiliation: "LabOnt — Centre for Ontology, Università di Torino; CSAL, Università di Bologna"
-abstract: "Pre-review preprint and comparative datasets (legal traditions, constitutional orders, quoted provisions, primary sources) underlying the article 'The Constitution as a Founding Inscription: Social Ontology and Comparative Legal Traditions', accepted for publication in the Revista General de Derecho Público Comparado (IUSTEL)."
-keywords:
-  - social object
-  - founding inscription
-  - legal traditions
-  - unamendability
-  - comparative constitutionalism
-  - documentality
-  - New Realism
-  - systemic materialism
-  - alterity
-  - human condition
-license: CC-BY-4.0
-repository-code: "https://github.com/luisbourguet/constitution-founding-inscription"
-identifiers:
-  - type: doi
-    value: "10.5281/zenodo.21386477"
-    description: "Preprint v1.0 (July 2026)"
-  - type: doi
-    value: "10.5281/zenodo.21386476"
-    description: "Preprint, concept DOI (all versions)"
-notes: "Preprint deposited with the authorization of the Editor-in-Chief. Article accepted September 2026; the published version carries a revised title and incorporates the reviewers' suggestions."
-preferred-citation:
-  type: article
-  title: "The Constitution as a Founding Inscription: Social Ontology and Comparative Legal Traditions"
-  authors:
-    - family-names: Bourguet
-      given-names: Luis
-      orcid: "https://orcid.org/0000-0002-4673-4486"
-  journal: "Revista General de Derecho Público Comparado"
-  publisher:
-    name: "IUSTEL"
-  year: 2026
-  notes: "Accepted for publication; forthcoming."
+- family-names: "YOUR_NAME_HERE"
+  given-names: "YOUR_NAME_HERE"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Lisa"
+  given-names: "Mona"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "constitution-founding-inscription"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2026-09-20
+url: "https://github.com/Luisbourguet/constitution-founding-inscription"
