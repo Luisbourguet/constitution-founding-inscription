@@ -1,14 +1,45 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+message: "If you use these materials, please cite them as below. To cite the article itself, use the preferred citation."
+type: dataset
+title: "Comparative materials for 'The Constitution as a Founding Inscription: Social Ontology and Comparative Legal Traditions'"
+version: "1.2.0"
+date-released: "2026-09-21"
 authors:
-- family-names: "YOUR_NAME_HERE"
-  given-names: "YOUR_NAME_HERE"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-- family-names: "Lisa"
-  given-names: "Mona"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
-title: "constitution-founding-inscription"
-version: 1.0.0
-doi: 10.5281/zenodo.1234
-date-released: 2026-09-20
-url: "https://github.com/Luisbourguet/constitution-founding-inscription"
+  - family-names: Bourguet
+    given-names: Luis
+    orcid: "https://orcid.org/0000-0002-4673-4486"
+    affiliation: "LabOnt — Centre for Ontology, Università di Torino; CSAL, Università di Bologna"
+abstract: "Comparative datasets (legal traditions, constitutional orders, ichnological hierarchy, quoted provisions, primary sources, codebook) underlying the article 'The Constitution as a Founding Inscription: Social Ontology and Comparative Legal Traditions', accepted for publication in the Revista General de Derecho Público Comparado (IUSTEL). The pre-review preprint is a separate record (10.5281/zenodo.21386477)."
+keywords:
+  - social object
+  - founding inscription
+  - legal traditions
+  - unamendability
+  - comparative constitutionalism
+  - documentality
+  - New Realism
+  - systemic materialism
+  - alterity
+  - human condition
+license: CC-BY-4.0
+repository-code: "https://github.com/luisbourguet/constitution-founding-inscription"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22867233"
+    description: "Comparative materials, concept DOI (all versions)"
+  - type: doi
+    value: "10.5281/zenodo.21386477"
+    description: "Pre-review preprint of the article (separate record)"
+notes: "Article accepted September 2026; the published version carries a revised title and incorporates the reviewers' suggestions. Preprint deposited with the authorization of the Editor-in-Chief."
+preferred-citation:
+  type: article
+  title: "The Constitution as a Founding Inscription: Social Ontology and Comparative Legal Traditions"
+  authors:
+    - family-names: Bourguet
+      given-names: Luis
+      orcid: "https://orcid.org/0000-0002-4673-4486"
+  journal: "Revista General de Derecho Público Comparado"
+  publisher:
+    name: "IUSTEL"
+  year: 2026
+  notes: "Accepted for publication; forthcoming."
