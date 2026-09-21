@@ -5,9 +5,9 @@
 [![Materials DOI](https://zenodo.org/badge/doi/10.5281/zenodo.22867233.svg)](https://doi.org/10.5281/zenodo.22867233)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
-> **Status / Estado (September 2026):** **Accepted for publication** in the *Revista General de Derecho Público Comparado* (IUSTEL), after double-blind peer review. The published version carries the revised title **"The Constitution as a Founding Inscription: Social Ontology and Comparative Legal Traditions"** / *"La Constitución como inscripción fundadora: ontología social y tradiciones jurídicas comparadas"* and incorporates the reviewers' suggestions. This repository holds the **pre-review preprint** (deposited with the authorization of the Editor-in-Chief) and the **comparative materials** underlying the article. The accepted manuscript is not deposited here, in accordance with the journal's copyright policy.
+> **Status / Estado (September 2026):** **Accepted for publication** in the *Revista General de Derecho Público Comparado* (IUSTEL), after double-blind peer review. The published version carries the revised title **"The Constitution as a Founding Inscription: Social Ontology and Comparative Legal Traditions"** / *"La Constitución como inscripción fundadora: ontología social y tradiciones jurídicas comparadas"* and incorporates the reviewers' suggestions. This repository holds the **comparative materials** underlying the article (datasets and codebook). The **pre-review preprint** is a separate, linked Zenodo record (10.5281/zenodo.21386477), deposited with the authorization of the Editor-in-Chief. The accepted manuscript is not deposited, in accordance with the journal's copyright policy.
 >
-> **Aceptado para su publicación** en la *Revista General de Derecho Público Comparado* (IUSTEL) tras evaluación por pares doble ciego. La versión publicada lleva el título revisado indicado arriba e incorpora las sugerencias de los evaluadores. Este repositorio contiene el **preprint pre-revisión** (depositado con autorización del Director) y los **materiales comparativos** en que se apoya el artículo. El manuscrito aceptado no se deposita aquí, conforme a la política de derechos de la revista.
+> **Aceptado para su publicación** en la *Revista General de Derecho Público Comparado* (IUSTEL) tras evaluación por pares doble ciego. La versión publicada lleva el título revisado indicado arriba e incorpora las sugerencias de los evaluadores. Este repositorio contiene los **materiales comparativos** en que se apoya el artículo (conjuntos de datos y libro de códigos). El **preprint pre-revisión** es un registro Zenodo independiente y enlazado (10.5281/zenodo.21386477), depositado con autorización del Director. El manuscrito aceptado no se deposita, conforme a la política de derechos de la revista.
 
 ## Author / Autor
 
@@ -19,9 +19,10 @@ This article asks what kind of social object a national constitution is and how,
 
 ## Contents / Contenido
 
+The repository is a **dataset**: it contains no manuscript. The preprint and the forthcoming article are cited below.
+
 | Path | Description |
 |---|---|
-| `preprint.pdf` | Pre-review manuscript, v1.0 (July 2026), as submitted. Zenodo DOI 10.5281/zenodo.21386477. |
 | `data/traditions_founding_inscription.csv` | Ten legal traditions (Glenn's map) × point of capture, mode of inscription, technology of hardness, exemplary orders. Article § 5.9. |
 | `data/jurisdictions_institutional_comparison.csv` | Twenty-one constitutional orders × founding act, technology of intangibility, mode of recognition of the other. Article § 10. |
 | `data/ichnological_hierarchy.csv` | The four levels of inscription (trace, record, inscription, founding inscription) with constitutional correlates. Article § 6. |
@@ -46,7 +47,7 @@ The selection of traditions follows H. P. Glenn's map; within each tradition, ca
 > Bourguet, L. (2026). *The Constitution as a Founding Inscription: What Kind of Social Object a National Constitution Is, and How It Institutionalizes the Human Condition Across the World's Legal Traditions* (v1.0-preprint). Zenodo. https://doi.org/10.5281/zenodo.21386477
 
 **Materials (this repository):**
-> Bourguet, L. (2026). *The Constitution as a Founding Inscription — preprint and comparative materials* (v1.1.0). Zenodo. https://doi.org/10.5281/zenodo.22867233 (this version: https://doi.org/10.5281/zenodo.22867234)
+> Bourguet, L. (2026). *Comparative materials for ‘The Constitution as a Founding Inscription: Social Ontology and Comparative Legal Traditions’* (v1.2.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.22867233
 
 ## License / Licencia
 
